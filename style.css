@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+.con {
+  position: relative;
+  width: 40rem;
+  height: 40rem;
+  background-color: rgb(0, 38, 255);
+  margin: 15% 37%;
+}
+.an {
+  position: absolute;
+  width: 5rem;
+  height: 5rem;
+  border-radius: 60%;
+  align-items: center;
+}
+.con1 {
+  background-color: springgreen;
+}
+.con2 {
+  background-color: tomato;
+}
+.con3 {
+  background-color: yellowgreen;
+}
+.con4 {
+  background-color: saddlebrown;
+}
+.con5 {
+  background-color: slategray;
+}
+.con6 {
+  background-color: tan;
+}
+.con7 {
+  background-color: gold;
+}
+.con8 {
+  background-color: rgb(255, 0, 0);
+}
