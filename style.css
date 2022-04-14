@@ -177,13 +177,13 @@ html {
   }
   12.5% {
     transform: translate(8.4vw, 8.3vw) scale(2);
-    z-index: 20;
   }
   25% {
     transform: translate(0) scale(1);
   }
   37.5% {
     transform: translate(8.4vw, 8.3vw) scale(2);
+    z-index: 20;
   }
   50% {
     transform: translate(0) scale(1);
